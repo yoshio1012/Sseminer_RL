@@ -47,3 +47,7 @@ if __name__ == "__main__":
     optimal_values = value_iteration()
     print("value_function:")
     print(optimal_values) 
+#方策評価
+
+
+
